@@ -3,9 +3,7 @@
 #include <map>
 #include <vector>
 #include <sstream>
-#include <functional>
 #include <stack>
-#include <bitset>
 #include <algorithm>
 
 class LogicCircuit {
